@@ -41,7 +41,7 @@ http://username:pass@ip:port
 
 ```bash
 # Clone repository
-[git clone https://github.com/zsan0x/nodepay.git](https://github.com/zsan0x/NodePay)
+git clone https://github.com/zsan0x/NodePay
 
 # Navigate to project
 cd nodepay
