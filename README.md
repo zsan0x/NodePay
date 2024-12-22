@@ -44,7 +44,7 @@ http://username:pass@ip:port
 git clone https://github.com/zsan0x/NodePay
 
 # Navigate to project
-cd nodepay
+cd NodePay
 
 # Install requirements
 pip install -r requirements.txt
